@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Acumin Regular';
+  src: url('/res/fonts/Acumin-RPro.otf');
+}
+
+@font-face {
+  font-family: 'Acumin Bold';
+  src: url('/res/fonts/Acumin-BdPro.otf');
+}
